@@ -1,0 +1,46 @@
+c:\users\ciu\documents\visual studio 2012\Projects\Survey\Survey\bin\Debug\Survey.exe.config
+C:\Users\Ильхом\Desktop\Survey\Survey\bin\Debug\Survey.exe.config
+C:\Users\Ильхом\Desktop\Survey\Survey\obj\Debug\Survey.csprojResolveAssemblyReference.cache
+C:\Users\Ильхом\Desktop\Survey\Survey\obj\Debug\Survey.Form1.resources
+C:\Users\Ильхом\Desktop\Survey\Survey\obj\Debug\Survey.Form2.resources
+C:\Users\Ильхом\Desktop\Survey\Survey\obj\Debug\Survey.Form3.resources
+C:\Users\Ильхом\Desktop\Survey\Survey\obj\Debug\Survey.Form4.resources
+C:\Users\Ильхом\Desktop\Survey\Survey\obj\Debug\Survey.Properties.Resources.resources
+C:\Users\Ильхом\Desktop\Survey\Survey\obj\Debug\Survey.csproj.GenerateResource.Cache
+C:\Users\Ильхом\Desktop\Survey\Survey\bin\Debug\Survey.exe
+C:\Users\Ильхом\Desktop\Survey\Survey\bin\Debug\Survey.pdb
+C:\Users\Ильхом\Desktop\Survey\Survey\obj\Debug\Survey.exe
+C:\Users\Ильхом\Desktop\Survey\Survey\obj\Debug\Survey.pdb
+C:\Users\CIU\Downloads\Survey\Survey\bin\Debug\Survey.exe.config
+C:\Users\CIU\Downloads\Survey\Survey\obj\Debug\Survey.exe
+C:\Users\CIU\Downloads\Survey\Survey\obj\Debug\Survey.pdb
+C:\Users\CIU\Downloads\Survey\Survey\bin\Debug\Survey.exe
+C:\Users\CIU\Downloads\Survey\Survey\bin\Debug\Survey.pdb
+C:\Users\CIU\Downloads\Survey\Survey\obj\Debug\Survey.csprojResolveAssemblyReference.cache
+C:\Users\CIU\Downloads\Survey\Survey\obj\Debug\Survey.Form1.resources
+C:\Users\CIU\Downloads\Survey\Survey\obj\Debug\Survey.Form2.resources
+C:\Users\CIU\Downloads\Survey\Survey\obj\Debug\Survey.Form3.resources
+C:\Users\CIU\Downloads\Survey\Survey\obj\Debug\Survey.Form4.resources
+C:\Users\CIU\Downloads\Survey\Survey\obj\Debug\Survey.Properties.Resources.resources
+C:\Users\CIU\Downloads\Survey\Survey\obj\Debug\Survey.csproj.GenerateResource.Cache
+C:\Users\CIU\Downloads\SurveyHomework\Survey\bin\Debug\Survey.exe.config
+C:\Users\CIU\Downloads\SurveyHomework\Survey\obj\Debug\Survey.exe
+C:\Users\CIU\Downloads\SurveyHomework\Survey\obj\Debug\Survey.pdb
+C:\Users\Ильхом\Desktop\Survey\Survey\Survey\bin\Debug\Survey.exe.config
+C:\Users\Ильхом\Desktop\Survey\Survey\Survey\obj\Debug\Survey.exe
+C:\Users\Ильхом\Desktop\Survey\Survey\Survey\obj\Debug\Survey.pdb
+C:\Users\Ильхом\Desktop\Survey\Survey\Survey\bin\Debug\Survey.exe
+C:\Users\Ильхом\Desktop\Survey\Survey\Survey\bin\Debug\Survey.pdb
+C:\Users\Ильхом\Desktop\Survey\Survey\Survey\obj\Debug\Survey.csprojResolveAssemblyReference.cache
+C:\Users\Ильхом\Desktop\Survey\Survey\Survey\obj\Debug\Survey.Form1.resources
+C:\Users\Ильхом\Desktop\Survey\Survey\Survey\obj\Debug\Survey.Form2.resources
+C:\Users\Ильхом\Desktop\Survey\Survey\Survey\obj\Debug\Survey.Form3.resources
+C:\Users\Ильхом\Desktop\Survey\Survey\Survey\obj\Debug\Survey.Form4.resources
+C:\Users\Ильхом\Desktop\Survey\Survey\Survey\obj\Debug\Survey.Properties.Resources.resources
+C:\Users\Ильхом\Desktop\Survey\Survey\Survey\obj\Debug\Survey.csproj.GenerateResource.Cache
+C:\Users\Ильхом\Desktop\done HW\Survey\Survey\Survey\Survey\bin\Debug\Survey.exe.config
+C:\Users\Ильхом\Desktop\done HW\Survey\Survey\Survey\Survey\obj\Debug\Survey.exe
+C:\Users\Ильхом\Desktop\done HW\Survey\Survey\Survey\Survey\obj\Debug\Survey.pdb
+D:\Шпоры\4th year I semester\done HW\Survey\Survey\Survey\Survey\bin\Debug\Survey.exe.config
+D:\Шпоры\4th year I semester\done HW\Survey\Survey\Survey\Survey\obj\Debug\Survey.exe
+D:\Шпоры\4th year I semester\done HW\Survey\Survey\Survey\Survey\obj\Debug\Survey.pdb
