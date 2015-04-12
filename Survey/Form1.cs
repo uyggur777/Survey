@@ -36,12 +36,13 @@ namespace Survey
                 frm3 = new Form3();
                 frm3.name = textBox1.Text;
                 frm3.surname = textBox2.Text;
-                frm3.gender = comboBox1.Text;
+                
                 frm3.Show();
             }
 
             else
-                MessageBox.Show("Select a gender!");
+                MessageBox.Show("Please select a gender!");
+                MessageBox.Show("Thank you!");
         }
 
 
